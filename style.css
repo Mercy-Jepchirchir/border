@@ -1,0 +1,21 @@
+.one{
+    border: 5px solid #E551ED;
+    margin: 10% 25% 10% 25%;
+    outline: solid #E551ED;
+}
+.two{
+    border: 5px solid #549129;
+    padding: 50px 10px 20px 10px;
+    margin: 10% 25% 10% 30%;
+    outline: solid #549129;
+    width: 50%;
+    outline: dotted #549129;
+
+}
+.three{
+    border: 5px solid #E0C2E2;
+    padding: 20px;
+    margin: 50px 10px 20px 10px;
+    outline: dashed #E0C2E2;
+    text-align: center;
+}
